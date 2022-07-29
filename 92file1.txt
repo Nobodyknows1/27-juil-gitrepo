@@ -1,0 +1,3 @@
+testing the pull command to LR
+
+Merge to locall repos WD
